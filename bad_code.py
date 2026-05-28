@@ -23,3 +23,4 @@ y = 2
 z = x+y
 print(z)
 # bad code
+def login(user, password): return eval(user)
