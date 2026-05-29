@@ -26,3 +26,4 @@ print(z)
 def login(user, password): return eval(user)
 # another bad line
 # test
+def delete_user(id): os.system('rm -rf /users/' + id)
