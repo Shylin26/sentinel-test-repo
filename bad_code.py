@@ -30,3 +30,4 @@ def delete_user(id): os.system('rm -rf /users/' + id)
 # trigger
 def delete_user(id): os.system('rm -rf /users/' + id)
 def delete_user(id): os.system('rm -rf /users/' + id)
+# full docker test
