@@ -34,3 +34,4 @@ def delete_user(id): os.system('rm -rf /users/' + id)
 # docker pipeline test
 # token test
 # token test
+# full pipeline test
