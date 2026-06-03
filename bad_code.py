@@ -41,3 +41,4 @@ def delete_user(id): os.system('rm -rf /users/' + id)
 # ngrok test
 # retry loop test
 # test2
+password = 'admin123'
