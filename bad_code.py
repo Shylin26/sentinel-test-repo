@@ -23,3 +23,22 @@ y = 2
 z = x+y
 print(z)
 # bad code
+def login(user, password): return eval(user)
+# another bad line
+# test
+def delete_user(id): os.system('rm -rf /users/' + id)
+# trigger
+def delete_user(id): os.system('rm -rf /users/' + id)
+def delete_user(id): os.system('rm -rf /users/' + id)
+# full docker test
+# docker pipeline test
+# token test
+# token test
+# full pipeline test
+# end to end docker test
+# trigger again
+# final test
+# ngrok test
+# retry loop test
+# test2
+password = 'admin123'
